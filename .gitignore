@@ -1,5 +1,5 @@
 # added by kaelyn
-.code-workspace
+*.code-workspace
 data/
 
 # Byte-compiled / optimized / DLL files
