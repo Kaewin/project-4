@@ -14,6 +14,8 @@
 
 This is the README file for the project on model interpretation, specifically focused on building a model to predict the primary cause of car crashes using car crash data. The purpose of this document is to provide a high-level overview of the project's process, discuss the proof of concept, and outline the steps taken to achieve the results. By sharing my experience and the challenges faced during this project, I hope to provide valuable insights for future endeavors.
 
+![image1](https://github.com/Kaewin/project-4/blob/main/Screenshot_1.png)
+
 ## Project Overview
 
 The main objective of this project was to develop models, iterate on their performance, and perform feature exploration to predict the primary cause of car crashes. The presentation will delve into the technical aspects of the project and highlight the process followed to reach the final results. As the capstone project is approaching, it is beneficial to encounter and address challenges now, allowing you to avoid the mistakes I made.
